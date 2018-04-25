@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/Aryk Ledet/Pictures/eagle/AL_GPIO/GPIO.sch at 4/25/2018 3:37 PM
+
+Part Value     Device    Package Description                                                                                                     
+J1   CONN_20X2 CONN_20X2 2X20    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections 
+J2   1         CONN_20   1X20    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections 
+J3   1         CONN_20   1X20    Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections 
+
+Manufacturer	OSHPark		https://oshpark.com/
+
+Male Pins      SparkFun		https://www.sparkfun.com/products/116
